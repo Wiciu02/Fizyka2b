@@ -142,3 +142,13 @@ h1 {
     z-index: 100;
     margin-left: 20px;
 }
+.footdown
+{
+    color: #fff;
+    text-align: center;
+}
+
+.footdown a
+{
+    color: #fff;
+}
